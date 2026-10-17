@@ -1,7 +1,7 @@
 ### Zheng Rong JIA
 **Medical AI & Predictive Modeling Researcher**
 
-- 📄 **Publication:**
+- 📄 **Publications:**
 
 [1] *Deep Learning for Stroke Mortality Prediction in eICU: A Dual-Tower Transformer Framework* (Nanjing, China, May 22-24, pp.76-81, CCAI 2026)[IEEE Xplore](https://ieeexplore.ieee.org/document/11641950)\
 [2] *DualTower-FT with an Adaptive Runtime Safeguard: A Deep Tabular Approach for ICU Stroke Mortality* (Accepted by PRICAI 2026 as a short paper)
