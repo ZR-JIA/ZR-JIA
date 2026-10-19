@@ -1,6 +1,9 @@
 ### Zheng Rong JIA
 **Medical AI & Predictive Modeling Researcher**
 
+> *When I wrote this code, only God and I understood it.  
+> Now, only Claude Code knows.*
+
 - 📄 **Publications:**
 
 [1] *Deep Learning for Stroke Mortality Prediction in eICU: A Dual-Tower Transformer Framework* (Nanjing, China, May 22-24, pp.76-81, CCAI 2026)[IEEE Xplore](https://ieeexplore.ieee.org/document/11641950)\
