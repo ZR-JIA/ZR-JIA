@@ -3,6 +3,7 @@
 
 > *When I wrote this code, only God and I understood it.  
 > Now, only Claude Code knows.*
+> I'm looking for an MPhil and a PhD opportunity now.
 
 📄 **Publications:**
 
