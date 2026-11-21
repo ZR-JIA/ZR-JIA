@@ -2,7 +2,7 @@
 **Medical AI & Predictive Modeling Researcher**
 
 > *When I wrote this code, only God and I understood it.  
-> Now, only Claude Code knows.*
+> Now, only Claude Code and Codex knows.*
 
 I'm currently looking for MPhil and PhD opportunities.
 
